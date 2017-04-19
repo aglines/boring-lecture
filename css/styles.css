@@ -1,4 +1,4 @@
-h2.intro{
+/*h2.intro{
   color: green;
   font-size: 30px;
   font-family: sans-serif;
@@ -13,4 +13,18 @@ p.intro {
 img.intro{
   border-radius: 80%;
 
+}*/
+
+div.intro{
+  color:green;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-stretch: extra-expanded;
+
+}
+
+.picture{
+  border: 2px solid;
+  border-radius: 50%;
+  width: 50px;
 }
