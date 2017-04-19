@@ -1,0 +1,16 @@
+h2.intro{
+  color: green;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-stretch: extra-expanded;
+}
+
+p.intro {
+  font-family: cursive;
+  font-size: 30px;
+}
+
+img.intro{
+  border-radius: 80%;
+
+}
